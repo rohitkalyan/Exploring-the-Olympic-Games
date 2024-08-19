@@ -9,8 +9,9 @@ Participation Trends: Examined how athlete participation has grown over the year
 Country Performances: Analyzed which countries dominated in terms of total and gold medals across all seasons.
 Demographics: Explored athlete demographics, including average age, weight, and height by sport and gender.
 French Olympics: Focused on the games held in France, uncovering participation rates and medal distributions.
-💡 Key Findings:
 
+
+💡 Key Findings:
 Identified the cities that hosted the Olympics most frequently.
 Highlighted the most popular sports and the athletes who excelled in them.
 Analyzed the participation of countries and athletes in the first modern Olympic season.
